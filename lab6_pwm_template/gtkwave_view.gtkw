@@ -1,0 +1,23 @@
+[*]
+[*] GTKWave Analyzer v3.3.66 (w)1999-2015 BSI
+[*] Sat Nov  3 05:12:21 2018
+[*]
+[dumpfile] "/media/user/TPSoC_Resources/TPSoC_3A_New/TPs/lab1_initiation/waveform-2018-11-03T061017.fst"
+[dumpfile_mtime] "Sat Nov  3 05:11:02 2018"
+[dumpfile_size] 73819417
+[savefile] "/media/user/TPSoC_Resources/TPSoC_3A_New/TPs/lab1_initiation/gtkwave_view.gtkw"
+[timestart] 0
+[size] 1191 929
+[pos] -1 -302
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.TestHarness.
+[treeopen] TOP.TestHarness.dut.
+[treeopen] TOP.TestHarness.dut.tile.
+[treeopen] TOP.TestHarness.dut.tile.core.
+[sst_width] 333
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 276
+[pattern_trace] 1
+[pattern_trace] 0

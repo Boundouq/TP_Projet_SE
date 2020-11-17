@@ -1,0 +1,26 @@
+Starting program: /usr/bin/make 
+[Inferior 1 (process 5228) exited normally]
+Starting program: /usr/bin/make 
+[Inferior 1 (process 5241) exited normally]
+Starting program: /usr/bin/make 
+[Inferior 1 (process 5289) exited normally]
+Reading symbols from executable.out...done.
+74	  tohost_exit(code);
+75	}
+76	
+77	void abort()
+78	{
+79	  exit(128 + SIGABRT);
+80	}
+81	
+82	void printstr(const char* s)
+83	{
+The program is not being run.
+Starting program: /media/user/TPSoC_Resources/TPSoC_3A_New/TP_Code_Source/lab1_2_initiation/executable.out 
+During startup program exited with code 126.
+The program is not being run.
+Starting program: /media/user/TPSoC_Resources/TPSoC_3A_New/TP_Code_Source/lab1_2_initiation/executable.out 
+During startup program exited with code 126.
+Undefined command: "srep".  Try "help".
+The program is not being run.
+Undefined command: "exit".  Try "help".

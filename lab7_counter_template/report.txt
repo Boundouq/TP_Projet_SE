@@ -1,0 +1,1 @@
+cp CustomPeripherals.scala ../../../rocket-chip/src/main/scala/tilelink/

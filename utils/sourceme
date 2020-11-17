@@ -1,0 +1,15 @@
+#Installation location
+export TP_TOP=$(pwd)
+export RISCV="$TP_TOP/riscv"
+echo "Initiated RISCV variable"
+echo $RISCV
+
+#Top level rocket-chip repository
+#export TOP="path/to/rocket-chip"
+
+#So we can use the toolchain easily
+export PATH=$PATH:$RISCV/bin
+echo "Added RISC-V toolchain to PATH."
+
+export MAKEFLAGS="$MAKEFLAGS -j4"
+export PATH=$PATH:$RISCV/bin

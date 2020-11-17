@@ -1,0 +1,25 @@
+set logging file gdb.lab1-exo4.log
+set logging on
+set history filename gdb.lab1-exo4.history
+set history save
+run
+run
++
+-
++
+q
+ set logging file gdb.lab1-exo4.log
+ set logging on
+ set history filename gdb.lab1-exo4.history
+ set history save
+run
+file executable.out 
+list
+next
+run
+next
+run
+srep
+step
+exit
+q

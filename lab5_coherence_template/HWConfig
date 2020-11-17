@@ -1,0 +1,4 @@
+class MiniIncoherentDualCoreConfig extends Config(
+  new WithL1ICacheSets(8) ++ new WithL1ICacheWays(1) ++
+  new WithL1DCacheSets(8) ++ new WithL1DCacheWays(1) ++
+  new WithIncoherentTiles ++ new WithNBigCores(2) ++ new BaseConfig)
